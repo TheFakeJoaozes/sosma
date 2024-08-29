@@ -1,0 +1,14 @@
+.sessoes {
+    font-size: 20px;
+    color:black;
+    background-color:#bbb27d ;
+    margin: 1em;
+    padding: 1em;
+}
+
+.sessoes--titulo {
+    text-align: center;
+    font-size: 32px;
+    color:black;
+    font-weight: 700;
+}
