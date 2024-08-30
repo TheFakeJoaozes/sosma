@@ -6,3 +6,7 @@ body {
     background-color:#eee8aa;
     font-family: "poppins";
 }
+
+p {
+    margin: 1em;
+}
