@@ -1,6 +1,7 @@
 @import url(reset.css);
 @import url(header.css);
 @import url(sessoes.css);
+@import url(contatos.css);
 
 body {
     background-color:#eee8aa;
@@ -9,4 +10,8 @@ body {
 
 p {
     margin: 1em;
+}
+
+input {
+    padding: 0.5em;
 }

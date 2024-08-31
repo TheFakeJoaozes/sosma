@@ -1,0 +1,9 @@
+.contato {
+    margin: 2em;
+    text-align: center;
+}
+
+.contatos {
+    display: flex;
+    justify-content: center;
+}

@@ -11,4 +11,16 @@
     font-size: 32px;
     color:black;
     font-weight: 700;
+    margin-bottom: 1em;
+}
+
+.campanhas {
+    display: flex;
+    justify-content: space-around;
+}
+
+.campanhas--sessao{
+    background-color:#a79e70 ;
+    padding: 1em;
+    text-align: center;
 }
